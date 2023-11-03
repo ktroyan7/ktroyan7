@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Swift, React Native, React, & Python**
 
-- 📫 How to reach me **kevin.troyan@gmail.com**
+- 📫 How to reach me: **kevin.troyan@gmail.com**
 
-- ⚡ Fun fact **I enjoy ultra-running.**
+- ⚡ Fun fact: **I enjoy ultra-running.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
