@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">I'm a software enthusiast who builds projects in my free time. I automate tasks as a Director of Operations and assist my engineering team in building out our platform!</h3>
+<h3 align="center">I'm a software enthusiast who builds projects in my free time. I automate tasks in my current role as a Director of Operations and assist my engineering team in building out our platform!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ktroyan7" alt="ktroyan7" /></a> </p>
 
