@@ -1,10 +1,6 @@
 # 🌎 About Me:
 Software enthusiast building projects in my free time. Mostly learning Swift, React Native, React, & Python. I enjoy automating processes while working in my current role as Director of Operations. I also wear multiple hats and second as a Product Manager who helps build out our platform with our talented team of engineers!<br><br>🔭 Currently working on iOS fitness app and mood tracker.<br>🌱 I’m currently learning Swift & React Native.<br>💬 Ask me about Saas and app business valuations.<br>⚡ Fun fact - I enjoy ultra-running.
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kevintroyan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinmtroyan) 
-
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
@@ -18,3 +14,6 @@ Software enthusiast building projects in my free time. Mostly learning Swift, Re
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ktroyan7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kevintroyan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinmtroyan) 
