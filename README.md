@@ -1,5 +1,5 @@
 # 🌎 About Me:
-Software enthusiast building projects in my free time. Mostly learning Swift, React Native, React, & Python. I enjoy automating processes while working in my current role as Director of Operations. I also wear multiple hats and second as a Product Manager who helps build out our platform with our talented team of engineers!<br><br>🔭 Currently working on iOS fitness app and mood tracker.<br>🌱 I’m currently learning Swift & React Native.<br>💬 Ask me about Saas and app business valuations.<br>⚡ Fun fact - I enjoy ultra-running.
+Software enthusiast building projects in my free time. Mostly learning Swift, React Native, React, & Python. I enjoy automating processes while working in my current role as Director of Operations. I also wear multiple hats and second as a Product Manager who helps build out our platform with our talented team of engineers!<br><br>🔭 Working on Shopify Valuation App.<br>🌱 I’m currently learning Swift & React Native.<br>💬 Ask me about Saas and app business valuations.<br>⚡ Fun fact - I enjoy ultra-running.
 
 # 💻 Tech Stack:
 
